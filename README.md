@@ -161,6 +161,7 @@ Other useful servers for DevOps practitioners.
 - [semgrep/mcp-security-audit](https://github.com/semgrep/mcp-security-audit) - Scan code for security vulnerabilities using Semgrep
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - IDA Pro integration for binary analysis, disassembly, and malware report generation
 - [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream/tree/master/modelcontextprotocol) - Connect with 2,500+ APIs with 8,000+ prebuilt tools
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/mcp) - Trust scoring and identity verification for AI agent wallets on Solana. Verify agent identity before x402 micropayments or agent-initiated operations
 
 ## 🗄️ Databases
 
